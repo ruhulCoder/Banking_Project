@@ -1,0 +1,60 @@
+{
+  "queues": [
+    {
+      "id": "processing",
+      "label": "Processing Queue",
+      "value": 35,
+      "color": "#f5222d"
+    },
+    {
+      "id": "exception",
+      "label": "Exception Queue",
+      "value": 54,
+      "color": "#13c2c2"
+    },
+    {
+      "id": "duplicate",
+      "label": "Duplicate Queue",
+      "value": 8,
+      "color": "#2f1b69"
+    },
+    {
+      "id": "missing-po",
+      "label": "Missing PO Queue",
+      "value": 12,
+      "color": "#fa8c16"
+    },
+    {
+      "id": "receipt-hold",
+      "label": "Receipt Hold Queue",
+      "value": 6,
+      "color": "#fadb14"
+    },
+    {
+      "id": "supplier-portal",
+      "label": "Supplier Portal Queue",
+      "value": 10,
+      "color": "#722ed1"
+    }
+  ],
+  "kpi": [
+    {
+      "id": "role",
+      "label": "Role",
+      "value": 30,
+      "color": "#fa8c16"
+    },
+    {
+      "id": "person-responsible",
+      "label": "Person Responsible",
+      "value": 54,
+      "color": "#13c2c2"
+    },
+    {
+      "id": "triggers-alert",
+      "label": "Triggers Alert",
+      "value": 26,
+      "color": "#2f1b69"
+    }
+  ]
+}

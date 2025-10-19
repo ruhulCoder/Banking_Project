@@ -1,0 +1,64 @@
+{
+  "overallOutstanding": {
+    "amount": 12341233,
+    "currency": "₹"
+  },
+  "cards": [
+    {
+      "id": "invoice-received",
+      "title": "Invoice Received",
+      "icon": "📋",
+      "total": 2123,
+      "amount": 1234123234
+    },
+    {
+      "id": "payable-amount",
+      "title": "Payable amount",
+      "icon": "🤝",
+      "total": 2123,
+      "amount": 12341233
+    },
+    {
+      "id": "overdue",
+      "title": "Overdue",
+      "icon": "⚠️",
+      "total": 2123,
+      "amount": 12341233
+    },
+    {
+      "id": "paid-amount",
+      "title": "Paid amount",
+      "icon": "✅",
+      "total": 2123,
+      "amount": 12341233
+    },
+    {
+      "id": "rejected",
+      "title": "Rejected",
+      "icon": "❌",
+      "total": 2123,
+      "amount": 1234123234
+    },
+    {
+      "id": "dispute",
+      "title": "Dispute",
+      "icon": "⚖️",
+      "total": 2123,
+      "amount": 12341233
+    },
+    {
+      "id": "department",
+      "title": "Department",
+      "icon": "🏢",
+      "total": 2123,
+      "amount": 12341233
+    },
+    {
+      "id": "vendors",
+      "title": "Vendors",
+      "icon": "👥",
+      "total": 2123,
+      "amount": 12341233
+    }
+  ]
+}

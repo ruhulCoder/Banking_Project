@@ -1,0 +1,103 @@
+{
+  "invoices": [
+    {
+      "id": 1,
+      "companyName": "Geodesic",
+      "gstPan": "22AAAAA0000A1Z5",
+      "orderId": "SD100037",
+      "invoiceId": "1234",
+      "issuedDate": "22-02-2222",
+      "invoiceAmount": 12341233,
+      "department": "Accounts",
+      "status": "approved"
+    },
+    {
+      "id": 2,
+      "companyName": "OPtipace Technology PVT",
+      "gstPan": "22AAAAA0000A1Z5",
+      "orderId": "SD100038",
+      "invoiceId": "213",
+      "issuedDate": "22-02-2222",
+      "invoiceAmount": 3141515,
+      "department": "Admin",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "companyName": "Sony",
+      "gstPan": "22AAAAA0000A1Z5",
+      "orderId": "qw100037",
+      "invoiceId": "432",
+      "issuedDate": "22-02-2222",
+      "invoiceAmount": 561514151,
+      "department": "Finance",
+      "status": "approved"
+    },
+    {
+      "id": 4,
+      "companyName": "IBM",
+      "gstPan": "22AAAAA0000A1Z5",
+      "orderId": "Qsdr100037",
+      "invoiceId": "223",
+      "issuedDate": "22-02-2222",
+      "invoiceAmount": 5424247,
+      "department": "Accounts",
+      "status": "rejected"
+    },
+    {
+      "id": 5,
+      "companyName": "ITC Infotech India LTD",
+      "gstPan": "22AAAAA0000A1Z5",
+      "orderId": "We100037",
+      "invoiceId": "112234",
+      "issuedDate": "22-02-2222",
+      "invoiceAmount": 43536334,
+      "department": "Admin",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "companyName": "DELL",
+      "gstPan": "22AAAAA0000A1Z5",
+      "orderId": "Qwe100037",
+      "invoiceId": "234",
+      "issuedDate": "22-02-2222",
+      "invoiceAmount": 72672552,
+      "department": "Legal",
+      "status": "approved"
+    },
+    {
+      "id": 7,
+      "companyName": "Apple Mac India",
+      "gstPan": "22AAAAA0000A1Z5",
+      "orderId": "AaSD100037",
+      "invoiceId": "1234",
+      "issuedDate": "22-02-2222",
+      "invoiceAmount": 292872,
+      "department": "Recovery",
+      "status": "rejected"
+    },
+    {
+      "id": 8,
+      "companyName": "Microsoft PVT Ltd",
+      "gstPan": "22AAAAA0000A1Z5",
+      "orderId": "SDwe100037",
+      "invoiceId": "112334445555",
+      "issuedDate": "22-02-2222",
+      "invoiceAmount": 272727662626,
+      "department": "Treasury",
+      "status": "approved"
+    },
+    {
+      "id": 9,
+      "companyName": "HP PVT Ltd",
+      "gstPan": "22AAAAA0000A1Z5",
+      "orderId": "SD10900037",
+      "invoiceId": "112234455",
+      "issuedDate": "22-02-2222",
+      "invoiceAmount": 82872,
+      "department": "Accounts",
+      "status": "pending"
+    }
+  ]
+}
